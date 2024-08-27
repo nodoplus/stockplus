@@ -1,0 +1,9 @@
+{
+  "stores": [
+    { "idStore": 1, "until": "31/12/2024" },
+    { "idStore": 2, "until": "31/12/2024" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
